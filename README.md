@@ -91,7 +91,7 @@ Follow these steps to run the project on your local machine:
 1. **Clone the Repository**  
    This command will clone the repository to your local machine. Replace `your-username` with your GitHub username if you are using a repository link.
    ```bash
-   git clone https://github.com/your-username/bank-loan-prediction.git
+   git clone https://github.com/LiamGetHub/Bank-Loan-Classification.git
    ```
    After running this command, navigate to the project directory:
    ```bash
