@@ -82,14 +82,12 @@ The models were evaluated on the test set, and their performance was as follows:
 The project also includes visualizations that show the comparison of model performance across Accuracy and AUC-ROC. A bar plot was used for accuracy, while a line plot displayed AUC-ROC values.
 
 
-
-```markdown
 ## Installation & Running the Project Locally
 
 Follow these steps to run the project on your local machine:
 
 1. **Clone the Repository**  
-   This command will clone the repository to your local machine. Replace `your-username` with your GitHub username if you are using a repository link.
+   This command will clone the repository to your local machine.
    ```bash
    git clone https://github.com/LiamGetHub/Bank-Loan-Classification.git
    ```
