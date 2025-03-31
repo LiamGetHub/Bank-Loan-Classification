@@ -133,5 +133,3 @@ Follow these steps to run the project on your local machine:
    deactivate
    ```
 ```
-
-You can copy and paste the entire block above into your markdown file. Let me know if you need further adjustments!
